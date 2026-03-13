@@ -142,8 +142,8 @@ The bot streams audio at **STUDIO** quality (highest available) with:
 
 ## 📞 Support & Contact
 
-- **Telegram Channel**: [@TheInfinityAI](https://t.me/elevenyts)
-- **Support Group**: [@Hasindu_Lakshan](https://t.me/elevenytsmusic) 
+- **Telegram Channel**: [@Elevenyts](https://t.me/elevenyts)
+- **Support Group**: [@Elevenyts_Music](https://t.me/elevenytsmusic) 
 
 ---
 
