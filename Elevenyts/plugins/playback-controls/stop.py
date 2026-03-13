@@ -1,24 +1,10 @@
-# ==============================================================================
-# stop.py - Stop Playback Command
-# ==============================================================================
-# This plugin handles stopping voice chat playback and clearing the queue.
-#
-# Commands:
-# - /stop - Stop playback and clear queue
-# - /end - Same as /stop
-#
-# Requirements:
-# - User must be admin or authorized user
-# - Music must be playing
-# ==============================================================================
-
 import asyncio
 import logging
 from pyrogram import filters, types
 from pyrogram.errors import ChatSendPlainForbidden, ChatWriteForbidden
 
-from HasiiMusic import tune, app, db, lang
-from HasiiMusic.helpers import can_manage_vc
+from Elevenyts import tune, app, db, lang
+from Elevenyts.helpers import can_manage_vc
 
 logger = logging.getLogger(__name__)
 
