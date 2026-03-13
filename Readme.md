@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://files.catbox.moe/r83igx.jpg](https://files.catbox.moe/dayzew.jpg)" alt="˹ᴇʟᴇᴠᴇɴʏᴛꜱ ᴍᴜꜱɪᴄ˼" width="400"/>
+  <img src="https://files.catbox.moe/dayzew.jpg" alt="˹Elevenyts ᴍᴜꜱɪᴄ˼" width="400"/>
   
   # 🎵 ˹ᴇʟᴇᴠᴇɴʏᴛꜱ ᴍᴜꜱɪᴄ˼
   
