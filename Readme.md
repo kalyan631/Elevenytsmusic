@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://files.catbox.moe/iv2w0d.jpg" alt="˹Elevenyts ᴍᴜꜱɪᴄ˼" width="400"/>
   
-  # 🎵 ˹ᴇʟᴇᴠᴇɴʏᴛꜱ ᴍᴜꜱɪᴄ˼
+  # ˹Qᴜᴇᴇɴ💗 Aɴᴜꜱʜᴋᴀ Mᴜꜱɪᴄ˼
 
   
   <p><b>A Powerful Telegram Music Player Bot</b></p>
