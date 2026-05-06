@@ -139,8 +139,8 @@ bash start
 
 ## 📞 Support & Contact
 
-- **Telegram Channel**: [@Elevenyts](https://t.me/elevenyts)
-- **Support Group**: [@Elevenyts Music](https://t.me/elevenytsmusic) 
+- **Telegram Channel**: [˹Qᴜᴇᴇɴ💗 Aɴᴜꜱʜᴋᴀ Mᴜꜱɪᴄ˼](https://t.me/elevenyts)
+- **Support Group**: [˹Qᴜᴇᴇɴ💗 Aɴᴜꜱʜᴋᴀ Mᴜꜱɪᴄ˼]
 
 ---
 
@@ -155,7 +155,7 @@ bash start
 
 <div align="center">
   
-  ### Made with ❤️ by Artist 
+  ### Made with ❤️ by ˹Qᴜᴇᴇɴ💗 Aɴᴜꜱʜᴋᴀ Mᴜꜱɪᴄ˼
   
   **© 2026 ˹ᴇʟᴇᴠᴇɴʏᴛꜱ ᴍᴜꜱɪᴄ˼. All rights reserved.**
   
